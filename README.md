@@ -1,0 +1,1 @@
+I successfully designed and implemented a comprehensive SQL-based database system for HerculesMotoCorp, tailored to streamline employee operations and provide stakeholders, including shareholders, with accessible and meaningful data insights
